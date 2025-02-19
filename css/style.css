@@ -1,4 +1,23 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Aryan Amirdad
+* Created on: Feb 2025
 * This file contains the CSS for index.html
 */
+h1 {
+  background-color: rgb(6, 224, 248);
+  color: hsl(147, 78%, 40%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #7cf18d;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(223, 177, 225);
+}
+img {
+  display: block;
+  margin: auto;
+}
